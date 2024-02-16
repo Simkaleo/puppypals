@@ -4,6 +4,12 @@
 import './App.css'
 import {puppyList} from "./data.js"
 import { useState } from 'react'
+import './index.css'
+
+
+
+
+
 
 
 
